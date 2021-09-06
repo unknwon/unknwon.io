@@ -44,7 +44,7 @@ disqusShortname = "landofunknown"
     name = "LinkedIn"
     icon = "fab fa-linkedin fa-2x"
     weight = 3
-    url = "https://www.linkedin.com/in/jiahua-chen-86218a81/"
+    url = "https://www.linkedin.com/in/jiahua-joe-chen-86218a81/"
 
 [[menu.main]]
     name = "Blog"
