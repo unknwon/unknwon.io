@@ -54,3 +54,7 @@ disqusShortname = "landofunknown"
     name = "About"
     weight = 2
     url = "/about/"
+[[menu.main]]
+    name = "中文博客"
+    weight = 3
+    url = "https://unknwon.cn"
