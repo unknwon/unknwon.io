@@ -20,8 +20,8 @@ disqusShortname = "landofunknown"
     keywords = "blog,developer,personal"
 
     avatarurl  = "https://avatars2.githubusercontent.com/u/2946214?s=460&v=4"
-    favicon_32 = "https://avatars2.githubusercontent.com/u/2946214?s=460&v=4"
-    favicon_16 = "https://avatars2.githubusercontent.com/u/2946214?s=460&v=4"
+    favicon_32 = "img/favicon.png"
+    favicon_16 = "img/favicon.png"
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = false
