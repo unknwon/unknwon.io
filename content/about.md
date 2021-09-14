@@ -31,10 +31,13 @@ As a great man once said, "Good good study, day day up!".
 [Sourcegraph](https://about.sourcegraph.com/) is an all-remote company where there is no physical office exsits and all 200+ teammates are distributed across the globe. We have [$2000 budget on setting up the home office](https://about.sourcegraph.com/handbook/people-ops/spending-company-money#desk-set-up) that help me getting the following equipments to boost my productivity:
 
 - 💻 MacBook Pro (16-inch, 2019)
-- 🖥 LG 27UL850, 27-inch 4K monitor
+- 🖥 LG 27UL850, 27-inch 4K monitor + SkipperTech Dual Display Stand
 - 🎹 Das Keyboard 4C TKL Compact (MX Brown Switch)
 - 🖲 Apple Magic Trackpad 2
 - 🎧 Bose QC Earbuds
-- 🎙 Blue Yeti - Midnight Blue
+- 🎙 Blue Yeti - Midnight Blue + Blue Compass
+- 🔆 BenQ ScreenBar Plus
+- 📷 Gucee HD98 1080P
+- 🔳 IKEA LINNMON (120 cm x 60 cm)
 
 _**Disclaimer:** Not all of above items are coming from company expenses, some of which are paying out of my own pocket._
