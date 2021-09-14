@@ -20,7 +20,7 @@ I start coding in Go since 2013 and have been doing a lot work with it, some of 
 - [go-ini/ini](https://ini.unknwon.io): A fantastic package for INI manipulations in Go.
 - [go-clog/clog](https://github.com/go-clog/clog): A channel-based logging package for Go.
 - [go-i18n/i18n](https://github.com/go-i18n/i18n): Internationalization and localization for your Go applications.
-- And many more please checkout my [GitHub](https://github.com/unknwon) profile.
+- And many more, please checkout my [GitHub](https://github.com/unknwon) profile.
 
 There are many things on my long-living wish list to learn and being proficient about, including [Zig](https://ziglang.org), [Rust](https://www.rust-lang.org/), [TypeScript](https://www.typescriptlang.org/) and [VueJS](https://vuejs.org/).
 
@@ -28,7 +28,7 @@ As a great man once said, "Good good study, day day up!".
 
 ### Home office setup
 
-[Sourcegraph](https://about.sourcegraph.com/) is an all-remote company where there is no physical office exsits and all 200+ teammates are distributed across the globe. We have [$2000 budget on setting up the home office](https://about.sourcegraph.com/handbook/people-ops/spending-company-money#desk-set-up) that help me getting the following equipments to boost my productivity:
+[Sourcegraph](https://about.sourcegraph.com/) is an all-remote company where there is no physical office exsits and all 200+ teammates are distributed across the globe. We have [$2000 budget on setting up the home office](https://about.sourcegraph.com/handbook/people-ops/spending-company-money#desk-set-up) that help me get the following equipments to boost my productivity:
 
 - 💻 MacBook Pro (16-inch, 2019)
 - 🖥 LG 27UL850, 27-inch 4K monitor + SkipperTech Dual Display Stand
