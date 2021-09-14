@@ -33,9 +33,9 @@ As a great man once said, "Good good study, day day up!".
 - 💻 MacBook Pro (16-inch, 2019)
 - 🖥 LG 27UL850, 27-inch 4K monitor + SkipperTech Dual Display Stand
 - 🎹 Das Keyboard 4C TKL Compact (MX Brown Switch)
-- 🖲 Apple Magic Trackpad 2
+- 🖲 Apple Magic Trackpad 2 (Space Gray)
 - 🎧 Bose QC Earbuds
-- 🎙 Blue Yeti - Midnight Blue + Blue Compass
+- 🎙 Blue Yeti (Midnight Blue) + Blue Compass
 - 🔆 BenQ ScreenBar Plus
 - 📷 Gucee HD98 1080P
 - 🔳 IKEA LINNMON (120 cm x 60 cm)
